@@ -1,0 +1,5 @@
+/home/daniel/grafika/projekt_1/build/CMakeFiles/paint.dir
+/home/daniel/grafika/projekt_1/build/CMakeFiles/edit_cache.dir
+/home/daniel/grafika/projekt_1/build/CMakeFiles/rebuild_cache.dir
+/home/daniel/grafika/projekt_1/build/CMakeFiles/paint_autogen_timestamp_deps.dir
+/home/daniel/grafika/projekt_1/build/CMakeFiles/paint_autogen.dir

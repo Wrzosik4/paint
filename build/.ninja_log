@@ -1,0 +1,9 @@
+# ninja log v5
+5	69	1791909345370405435	paint_autogen/timestamp	f0dd15fb99a85df2
+554	5836	1791909309069046566	CMakeFiles/paint.dir/main.cpp.o	d8c4757a8eee3ada
+5	69	1791909345370405435	paint_autogen/mocs_compilation.cpp	f0dd15fb99a85df2
+5	69	1791909345370405435	/home/daniel/grafika/projekt_1/build/paint_autogen/timestamp	f0dd15fb99a85df2
+5	69	1791909345370405435	/home/daniel/grafika/projekt_1/build/paint_autogen/mocs_compilation.cpp	f0dd15fb99a85df2
+553	5969	1791909309202610587	CMakeFiles/paint.dir/paint_autogen/mocs_compilation.cpp.o	10c47a8008c8a2a0
+2204	2797	1791909348091488208	paint	ee6429ad054635c5
+70	2204	1791909347504083564	CMakeFiles/paint.dir/mainwindow.cpp.o	e2c90b1259cfa79d

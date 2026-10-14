@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/daniel/grafika/projekt_1/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/daniel/grafika/projekt_1/build/paint_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -o CMakeFiles/paint.dir/paint_autogen/mocs_compilation.cpp.o -c /home/daniel/grafika/projekt_1/build/paint_autogen/mocs_compilation.cpp",
+  "file": "/home/daniel/grafika/projekt_1/build/paint_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/paint.dir/paint_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/daniel/grafika/projekt_1/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/daniel/grafika/projekt_1/build/paint_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -o CMakeFiles/paint.dir/main.cpp.o -c /home/daniel/grafika/projekt_1/main.cpp",
+  "file": "/home/daniel/grafika/projekt_1/main.cpp",
+  "output": "CMakeFiles/paint.dir/main.cpp.o"
+},
+{
+  "directory": "/home/daniel/grafika/projekt_1/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/daniel/grafika/projekt_1/build/paint_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -o CMakeFiles/paint.dir/mainwindow.cpp.o -c /home/daniel/grafika/projekt_1/mainwindow.cpp",
+  "file": "/home/daniel/grafika/projekt_1/mainwindow.cpp",
+  "output": "CMakeFiles/paint.dir/mainwindow.cpp.o"
+}
+]

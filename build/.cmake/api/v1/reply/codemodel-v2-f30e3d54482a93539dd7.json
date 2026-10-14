@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "paint",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "paint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-paint-Debug-d1a8758a6665c0843f42.json",
+					"name" : "paint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "paint_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-paint_autogen-Debug-8946a46eaf336560dffb.json",
+					"name" : "paint_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "paint_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-paint_autogen_timestamp_deps-Debug-ab45a3c7077c6cce55a9.json",
+					"name" : "paint_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/daniel/grafika/projekt_1/build",
+		"source" : "/home/daniel/grafika/projekt_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
