@@ -139,7 +139,7 @@ build paint_autogen/timestamp paint_autogen/mocs_compilation.cpp | ${cmake_ninja
 #############################################
 # Phony custom command for CMakeFiles/paint_autogen_timestamp_deps
 
-build CMakeFiles/paint_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/paint_autogen_timestamp_deps: phony /usr/lib/qt6/libexec/moc /usr/lib/qt6/libexec/uic /usr/lib/x86_64-linux-gnu/libQt6Widgets.so.6.4.2
+build CMakeFiles/paint_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/paint_autogen_timestamp_deps: phony /usr/lib/x86_64-linux-gnu/libQt6Widgets.so.6.4.2 /usr/lib/qt6/libexec/moc /usr/lib/qt6/libexec/uic
 
 
 #############################################

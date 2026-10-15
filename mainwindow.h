@@ -1,4 +1,5 @@
-#pragma once
+#ifndef MAINWINDOW_H
+#define MAINWINDOW_H
 
 #include <QMainWindow>
 #include <QImage>
@@ -10,7 +11,10 @@
 enum Tool {
     None,
     Pen,
-    Eraser
+    Eraser,
+    Circle,
+    Rectangle,
+    Line
 };
 
 class MainWindow : public QMainWindow {
@@ -24,9 +28,14 @@ protected:
     void mouseMoveEvent(QMouseEvent *event) override;
     void paintEvent(QPaintEvent *event) override;
     void resizeEvent(QResizeEvent *event) override;
+    void mouseReleaseEvent(QMouseEvent *event) override;
 
 private:
     Tool currentTool = Tool::None;
     QPoint lastPoint;
     QImage canvas;
+    QPoint currentPoint;
+    bool isDrawing = false;
 };
+
+#endif
